@@ -1,0 +1,254 @@
+>requestaudit/6	02.23 03:04:58.090	IdcServer-27	CLEAR_SERVER_OUTPUT [dUser=weblogic][IsJava=1] 0.012570000253617764(secs)
+>requestaudit/6	02.23 03:05:02.582	IdcServer-28	FLD_GET_CHOOSE_DESTINATION_DIALOG [dUser=weblogic] 0.03010999970138073(secs)
+>requestaudit/6	02.23 03:05:02.729	IdcServer-29	FLD_BROWSE_POPUP [dUser=weblogic] 0.05253700166940689(secs)
+>PushRIDC/6	02.23 03:05:08.749	IdcServer-30	DataBinder is FLD_COPY 
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	*** LocalData ***
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	(29 keys + 0 defaults)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	ConflictResolutionMethod=ResolveDuplicates
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	IdcService=FLD_COPY
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	IsJson=1
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	StatusCode=0
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	TotalChildFilesCount=0
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	TotalChildFoldersCount=0
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	action=copy
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	changedMonikers=
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	changedSubjects=
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	computePermissions=1
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	constructDialog=1
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	constructListingMarkup=1
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	dUser=weblogic
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	destination=fFolderGUID:D7ECA2D7E54386647AABF09BE225A7F1
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	destination_display=/ACLnull
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	dialogCounter=2
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	dialogMarkup=	1
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		<div id="dialog_3">
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			<div class="hd">
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30				Successful Copy
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			</div>
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			<div class="bd" style="text-align:center;">
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		<div style="padding-bottom:12px;text-align:left;">
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			The items have been successfully copied.
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		</div>
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		<form name="MOVE_COPY_DELETE_FORM_3">
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	<input type="hidden" name="idcToken" value="1456349708615:D0B376FC3DCD2E1A495F0A70DE083234" />
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		</form>
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			</div>
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		</div>
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	dialogScript=
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		idc.folders.incrementDialogCounter();
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			var handleDialogOk_3 = function() {
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30				this.destroy();
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			}
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		var dialog_3 = new YAHOO.widget.Dialog("dialog_3",
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		{
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			width: "400px",
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			fixedcenter: "contained",
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			draggable: true,
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			visible: false,
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			modal: true,
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			close: true,
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			constraintoviewport: true,
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			effect: {effect:YAHOO.widget.ContainerEffect.FADE, duration:0.25},
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			buttons: [
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30					{text:"<span class='xuiDisplayText_Medfont'>OK</span>", handler:handleDialogOk_3, isDefault:true}
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			]
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		});
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			 	dialog_3.hideEvent.subscribe(
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	 			function(o) 
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	 			{
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	    			setTimeout(function() {dialog_3.destroy();}, 0);
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30				});
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		dialog_3.render();
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		dialog_3.show();
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		if (typeof dialogCounter != "undefined")
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		{
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			dialogCounter++;
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		}
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	doSorting=0
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fldBrowsingMode=contribution
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	hasMoreChildFiles=0
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	hasMoreChildFolders=0
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	hasMoreResults=0
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	idcToken=1456349708615:D0B376FC3DCD2E1A495F0A70DE083234
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	item1=fFolderGUID:73C4F121832717D5649E28DF36EC454F
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	localizedForResponse=1
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	refreshMonikers=
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	refreshSubMonikers=
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	refreshSubjects=
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	***  RESULT SETS  ***
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	--- @ResultSet ChildFolders ---
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	numFields=34,numRows=1,currentRow=1
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	--- @ResultSet FldImages ---
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	numFields=3,numRows=20,currentRow=20
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	--- @ResultSet FolderListingHTML ---
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	numFields=1,numRows=1,currentRow=0
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	row[0]=(<div class="fldFolderListingTableItem" id="folder_12A583AEC984ACF9652881B67F5B384A" >
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		<label for="checkbox-folder-12A583AEC984ACF9652881B67F5B384A" class="hidden">Select '1234'</label>
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		<input type="checkbox" id="checkbox-folder-12A583AEC984ACF9652881B67F5B384A"  />
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	<a id="menuLink_251601861" href="javascript:void(0);" onclick="return false;"><img id="menuImg_251601861" alt="Actions" title="Actions" src="/cs/resources/layouts/Top Menus/Oracle/ActionsIcon.gif" height="16" width="16" border="0" /></a>
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		<a href="/cs/idcplg?IdcService=FLD_BROWSE&path=/ACLnull/1234&doMarkSubscribed=1"><img src="/cs/resources/layouts/Top Menus/Oracle/tree_icon_collection_closed.gif" alt="Folder" /></a>
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		<a class="xuiLinkText2_sm_wrap" style="white-space:pre"href="/cs/idcplg?IdcService=FLD_BROWSE&path=/ACLnull/1234&doMarkSubscribed=1">1234</a>
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	</div>
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	--- @ResultSet FolderListingScript ---
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	numFields=1,numRows=1,currentRow=0
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	row[0]=(
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	var menuItems_251601861 = [
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		{ id: "menuitem_251601861_fldEditFolderInformation", text: "Update Folder Information", url: "javascript:idc.folders.showEditFolderPopup(\"12A583AEC984ACF9652881B67F5B384A\")"},
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		{ id: "menuitem_251601861_fldNewShortcutGivenTarget", text: "Create Shortcut", url: "javascript:idc.folders.showCreateShortcutGivenTargetPopup(\"12A583AEC984ACF9652881B67F5B384A\",\"1234\")"},
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		{ id: "menuitem_251601861_fldRenameFolder", text: "Rename", url: "javascript:idc.folders.renameFolder(\"12A583AEC984ACF9652881B67F5B384A\")"},
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		{ id: "menuitem_251601861_fldMoveFolder", text: "Move", url: "javascript:idc.folders.moveSingleItem(\"fFolderGUID:12A583AEC984ACF9652881B67F5B384A\")"},
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		{ id: "menuitem_251601861_fldCopyFolder", text: "Copy", url: "javascript:idc.folders.copySingleItem(\"fFolderGUID:12A583AEC984ACF9652881B67F5B384A\")"},
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		{ id: "menuitem_251601861_fldDeleteFolder", text: "Delete", url: "javascript:idc.folders.deleteSingleItem(\"fFolderGUID:12A583AEC984ACF9652881B67F5B384A\",\"fFolderType:owner\")"},
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		{ id: "menuitem_251601861_fldAddToMyFolder", text: "Add To My Folders", url: "javascript:idc.folders.addToMyFolder(\"fFolderGUID:12A583AEC984ACF9652881B67F5B384A\",\"fFolderName:1234\")"},
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30		{ id: "menuitem_251601861_fldSubscribeFolder", text: "Subscribe", url: "javascript:idc.folders.subscribeSingleItem(\"fFolderGUID:12A583AEC984ACF9652881B67F5B384A\",\"fApplication:framework\",\"fFolderType:owner\")"},
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	];
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			var menuListenerArgs = {menuId: 'menu_251601861', imageId: 'menuImg_251601861', linkId: 'menuLink_251601861'};
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			if (typeof(menuItems_251601861) != 'undefined')
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			{
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30				menuListenerArgs.menuItems = menuItems_251601861;
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30			}
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	     YAHOO.util.Event.addListener('menuLink_251601861', 'click', idc.widget.util.createAndDisplayImagePopupMenu, menuListenerArgs);
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	--- @ResultSet ParentInfo ---
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	numFields=37,numRows=1,currentRow=0
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fDisplayName[0]=(ACLnull)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fDisplayDescription[1]=()
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fAllocatedFolderSize[2]=(-1)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fAllocatorParentFolderGUID[3]=()
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fApplication[4]=(framework)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fApplicationGUID[5]=()
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fChildFilesCount[6]=(0)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fChildFoldersCount[7]=(0)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fClbraAliasList[8]=()
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fClbraRoleList[9]=()
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fClbraUserList[10]=(&weblogic(RW))
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fCreateDate[11]=(7/14/15 4:43 PM)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fCreator[12]=(weblogic)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fDocAccount[13]=()
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fDocClasses[14]=()
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fFolderDescription[15]=()
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fFolderGUID[16]=(D7ECA2D7E54386647AABF09BE225A7F1)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fFolderName[17]=(ACLnull)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fFolderSize[18]=(0)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fFolderType[19]=(owner)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fInhibitPropagation[20]=(0)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fIsContribution[21]=(1)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fIsFavorite[22]=(0)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fIsInTrash[23]=(0)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fIsLibrary[24]=(0)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fLastModifiedDate[25]=(7/14/15 4:43 PM)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fLastModifier[26]=(weblogic)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fLibraryType[27]=()
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fOwner[28]=(weblogic)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fParentGUID[29]=(FLD_ROOT)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fPromptForMetadata[30]=(0)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fRealItemGUID[31]=()
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fSecurityGroup[32]=(Public)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fTargetGUID[33]=()
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	folderPermissions[34]=(RWDA)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	isLeaf[35]=(0)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	itemType[36]=(1)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	--- @ResultSet TaskList ---
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	numFields=9,numRows=2,currentRow=2
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	--- @ResultSet UserAttribInfo ---
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	numFields=2,numRows=1,currentRow=0
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	dUserName[0]=(weblogic)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	AttributeInfo[1]=(account,#0023none,15,account,#0023all,15,role,guest,15,role,authenticated,15,role,admin,15,role,sysmanager,15,role,refineryadmin,15,role,rmaadmin,15,role,pcmadmin,15,role,ermadmin,15)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	--- @ResultSet targetInfo ---
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	numFields=3,numRows=1,currentRow=0
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fFolderGUID[0]=(D7ECA2D7E54386647AABF09BE225A7F1)
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fLibraryType[1]=()
+ PushRIDC/6	02.23 03:05:08.749	IdcServer-30	fSourceLibraryType[2]=()
+>requestaudit/6	02.23 03:05:08.749	IdcServer-30	FLD_COPY [dUser=weblogic][StatusCode=0] 0.1363389939069748(secs)
+>requestaudit/6	02.23 03:05:38.485	IdcServer-31	PING_SERVER [dUser=anonymous][StatusCode=-20][StatusMessage=Unable to establish connection to the server. To proceed, you must enter the correct login authentication credentials.][IsJava=1] 0.0013760000001639128(secs)

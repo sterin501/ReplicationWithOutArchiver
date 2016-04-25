@@ -1,0 +1,170 @@
+>requestaudit/6	02.23 16:50:40.295	IdcServer-3	CLEAR_SERVER_OUTPUT [dUser=weblogic][IsJava=1] 0.00950200017541647(secs)
+>requestaudit/6	02.23 16:50:44.278	IdcServer-4	PING_SERVER [dUser=anonymous] 0.016042999923229218(secs)
+>requestaudit/6	02.23 16:50:44.312	IdcServer-5	GET_DOC_PAGE [Page=HOME_PAGE][dUser=weblogic] 0.023460999131202698(secs)
+>requestaudit/6	02.23 16:50:44.800	IdcServer-6	GET_PERSONALIZED_JAVASCRIPT [dUser=weblogic] 0.19656799733638763(secs)
+>PushRIDC/6	02.23 16:50:56.006	IdcServer-8	DataBinder is FLD_DELETE 
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	*** LocalData ***
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	(30 keys + 0 defaults)
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	IdcService=FLD_DELETE
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	IsJson=1
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	StatusCode=0
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	TotalChildFilesCount=0
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	TotalChildFoldersCount=0
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	action=delete
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	changedMonikers=
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	changedSubjects=
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	computePermissions=1
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	constructDialog=1
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	dUser=weblogic
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	dialogCounter=9
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	dialogMarkup=	1
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8		
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8		
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8		<div id="dialog_10">
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			<div class="hd">
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8				Successful Deletion
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			</div>
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			<div class="bd" style="text-align:center;">
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8		<div style="padding-bottom:12px;text-align:left;">
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			The items have been successfully deleted.
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8		</div>
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8		
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8		
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8		
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8		<form name="MOVE_COPY_DELETE_FORM_10">
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	<input type="hidden" name="idcToken" value="1456399255865:E6B80F6959271036112F383684358497" />
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8		</form>
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8		
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			</div>
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8		</div>
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8		
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	dialogScript=
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8		idc.folders.incrementDialogCounter();
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			var handleDialogOk_10 = function() {
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8				this.destroy();
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			}
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8		var dialog_10 = new YAHOO.widget.Dialog("dialog_10",
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8		{
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			width: "400px",
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			fixedcenter: "contained",
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			draggable: true,
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			visible: false,
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			modal: true,
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			close: true,
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			constraintoviewport: true,
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			effect: {effect:YAHOO.widget.ContainerEffect.FADE, duration:0.25},
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			buttons: [
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8					{text:"<span class='xuiDisplayText_Medfont'>OK</span>", handler:handleDialogOk_10, isDefault:true}
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			]
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8		});
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			 	dialog_10.hideEvent.subscribe(
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	 			function(o) 
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	 			{
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	    			setTimeout(function() {dialog_10.destroy();}, 0);
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8				});
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8		dialog_10.render();
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8		dialog_10.show();
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8		if (typeof dialogCounter != "undefined")
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8		{
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8			dialogCounter++;
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8		}
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8		
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	doSorting=1
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	fFolderGUID=57D166F2515C74650F94E35306652AE0
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	fldBrowsingMode=contribution
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	hasMoreChildFiles=0
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	hasMoreChildFolders=0
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	hasMoreResults=0
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	idcToken=1456399255865:E6B80F6959271036112F383684358497
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	item1=fFolderGUID:A50CFF90A80BD0513335EFE3CEA0C8E1
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	itemCount=-1
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	itemSortField=fFileName
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	itemSortOrder=ASC
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	itemStartRow=0
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	localizedForResponse=1
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	refreshMonikers=
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	refreshSubMonikers=
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	refreshSubjects=
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	***  RESULT SETS  ***
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	--- @ResultSet FldImages ---
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	numFields=3,numRows=20,currentRow=20
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	--- @ResultSet TaskList ---
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	numFields=9,numRows=2,currentRow=2
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	--- @ResultSet UserAttribInfo ---
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	numFields=2,numRows=1,currentRow=0
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	dUserName[0]=(weblogic)
+ PushRIDC/6	02.23 16:50:56.006	IdcServer-8	AttributeInfo[1]=(account,#0023none,15,account,#0023all,15,role,guest,15,role,authenticated,15,role,admin,15,role,sysmanager,15,role,refineryadmin,15,role,rmaadmin,15,role,pcmadmin,15,role,ermadmin,15)
+>requestaudit/6	02.23 16:50:56.007	IdcServer-8	FLD_DELETE [dUser=weblogic][StatusCode=0] 0.1537099927663803(secs)
+>requestaudit/6	02.23 16:51:05.850	IdcServer-9	PING_SERVER [dUser=anonymous][StatusCode=-20][StatusMessage=Unable to establish connection to the server. To proceed, you must enter the correct login authentication credentials.][IsJava=1] 0.006926999893039465(secs)

@@ -1,0 +1,183 @@
+>requestaudit/6	02.23 17:13:37.875	IdcServer-10	CLEAR_SERVER_OUTPUT [dUser=weblogic][IsJava=1] 0.006635999772697687(secs)
+>requestaudit/6	02.23 17:13:49.186	IdcServer-11	FLD_EDIT_FOLDER_FORM [dUser=weblogic] 0.0469370000064373(secs)
+>requestaudit/6	02.23 17:14:00.002	Audit Request Monitor	!csMonitorTotalRequests,11,2,0.17148113250732422,0.03245454654097557,1
+>requestaudit/6	02.23 17:14:00.003	Audit Request Monitor	Request Audit Report over the last 64 Seconds for server stjacobpc1idcoraclecom16471****
+ requestaudit/6	02.23 17:14:00.003	Audit Request Monitor	-Num Requests 11 Errors 2 Reqs/sec. 0.17148113250732422 Avg. Latency (secs) 0.03245454654097557 Max Thread Count 1
+ requestaudit/6	02.23 17:14:00.003	Audit Request Monitor	1	Service FLD_UNFILE	Total Elapsed Time (secs) 0.10999999940395355	Num requests 1	Num errors 0	Avg. Latency (secs) 0.10999999940395355
+ requestaudit/6	02.23 17:14:00.003	Audit Request Monitor	2	Service GET_PERSONALIZED_JAVASCRIPT	Total Elapsed Time (secs) 0.10700000077486038	Num requests 1	Num errors 0	Avg. Latency (secs) 0.10700000077486038
+ requestaudit/6	02.23 17:14:00.003	Audit Request Monitor	3	Service FLD_EDIT_FOLDER_FORM	Total Elapsed Time (secs) 0.04600000008940697	Num requests 1	Num errors 0	Avg. Latency (secs) 0.04600000008940697
+ requestaudit/6	02.23 17:14:00.003	Audit Request Monitor	4	Service PING_SERVER	Total Elapsed Time (secs) 0.03999999910593033	Num requests 3	Num errors 2	Avg. Latency (secs) 0.013333333656191826
+ requestaudit/6	02.23 17:14:00.003	Audit Request Monitor	5	Service GET_DOC_PAGE	Total Elapsed Time (secs) 0.029999999329447746	Num requests 1	Num errors 0	Avg. Latency (secs) 0.029999999329447746
+ requestaudit/6	02.23 17:14:00.003	Audit Request Monitor	****End Audit Report*****
+>requestaudit/6	02.23 17:14:01.907	IdcServer-12	GET_TYPEAHEAD_RESULTS [dUser=weblogic] 0.014562999829649925(secs)
+>requestaudit/6	02.23 17:14:04.009	IdcServer-13	GET_TYPEAHEAD_RESULTS [dUser=weblogic] 0.011691000312566757(secs)
+>PushRIDC/6	02.23 17:14:12.908	IdcServer-20	DataBinder is FLD_EDIT_FOLDE 
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	*** LocalData ***
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	(66 keys + 0 defaults)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	IdcService=FLD_EDIT_FOLDER
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	IsJson=1
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	StatusCode=0
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	browseUrl=/cs/idcplg?IdcService=FLD_BROWSE&path=%2fACL%2fDFC&doMarkSubscribed=1
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	changedMonikers=
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	changedSubjects=
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	constructListingMarkup=1
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	dUser=weblogic
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	doSorting=0
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fAllocatedFolderSize=-1
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fAllocatorParentFolderGUID=
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fApplication=framework
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fApplicationGUID=
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fChildFilesCount=0
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fChildFoldersCount=0
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fClbraAliasList=
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fClbraRoleList=
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fClbraUserList=&sysadmin(RWD),&weblogic(RW)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fCreateDate=2/23/16 2:37 AM
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fCreator=weblogic
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fDisplayDescription=
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fDisplayName=DFC
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fDocAccount=
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fDocClasses=
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fFolderDescription=
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fFolderGUID=1AA4D433E0FBA6636343A5AF17F70509
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fFolderName=DFC
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fFolderSize=0
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fFolderType=owner
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fInhibitPropagation=0
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fIsBrokenShortcut=
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fIsContribution=1
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fIsFavorite=0
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fIsInTrash=0
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fIsLibrary=0
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fLastModifiedDate=2/23/16 5:14 PM
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fLastModifier=weblogic
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fLibraryType=
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fOwner=weblogic
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fOwner_Options=weblogic
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fParentGUID=B7989D50165705063A4B6E49060A2066
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fPromptForMetadata=0
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fRealItemGUID=
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fSecurityGroup=Public
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fTargetGUID=
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fldBrowsingMode=contribution
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	folderHref=/cs/idcplg?IdcService=FLD_BROWSE&path=%2fACL%2fDFC&doMarkSubscribed=1
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	folderPath=/ACL/DFC
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	folderPathLocalized=/ACL/DFC
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	folderPermissions=RWDA
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	idcToken=1456400652849:01A37B28AFFE5964A8FDB98140CE9145
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	isLeaf=0
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	itemCount=-1
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	itemStartRow=0
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	itemType=1
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	localizedForResponse=1
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	menuCounter=10
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	oldDisplayName=DFC
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	pagePath=/ACL
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	path=/ACL
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	refreshMonikers=
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	refreshSubMonikers=
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	refreshSubjects=
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	xClbraAliasList=
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	xClbraRoleList=
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	xClbraUserList=&sysadmin(RWD),&weblogic(RW)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	***  RESULT SETS  ***
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	--- @ResultSet FolderInfo ---
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	numFields=38,numRows=1,currentRow=0
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fDisplayName[0]=(DFC)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fDisplayDescription[1]=()
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fAllocatedFolderSize[2]=(-1)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fAllocatorParentFolderGUID[3]=()
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fApplication[4]=(framework)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fApplicationGUID[5]=()
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fChildFilesCount[6]=(0)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fChildFoldersCount[7]=(0)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fClbraAliasList[8]=()
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fClbraRoleList[9]=()
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fClbraUserList[10]=(&weblogic(RW))
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fCreateDate[11]=(2/23/16 2:37 AM)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fCreator[12]=(weblogic)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fDocAccount[13]=()
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fDocClasses[14]=()
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fFolderDescription[15]=()
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fFolderGUID[16]=(1AA4D433E0FBA6636343A5AF17F70509)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fFolderName[17]=(DFC)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fFolderSize[18]=(0)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fFolderType[19]=(owner)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fInhibitPropagation[20]=(0)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fIsBrokenShortcut[21]=()
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fIsContribution[22]=(1)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fIsFavorite[23]=(0)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fIsInTrash[24]=(0)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fIsLibrary[25]=(0)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fLastModifiedDate[26]=(2/23/16 2:37 AM)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fLastModifier[27]=(weblogic)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fLibraryType[28]=()
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fOwner[29]=(weblogic)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fParentGUID[30]=(B7989D50165705063A4B6E49060A2066)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fPromptForMetadata[31]=(0)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fRealItemGUID[32]=()
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fSecurityGroup[33]=(Public)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fTargetGUID[34]=()
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	isLeaf[35]=(0)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	itemType[36]=(1)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	folderPermissions[37]=(RWDA)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	--- @ResultSet FolderListingHTML ---
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	numFields=1,numRows=1,currentRow=0
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	row[0]=(<div class="fldFolderListingTableItem" id="folder_1AA4D433E0FBA6636343A5AF17F70509" >
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20		<label for="checkbox-folder-1AA4D433E0FBA6636343A5AF17F70509" class="hidden">Select 'DFC'</label>
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20		<input type="checkbox" id="checkbox-folder-1AA4D433E0FBA6636343A5AF17F70509"  />
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	<a id="menuLink_868065274" href="javascript:void(0);" onclick="return false;"><img id="menuImg_868065274" alt="Actions" title="Actions" src="/cs/resources/layouts/Top Menus/Oracle/ActionsIcon.gif" height="16" width="16" border="0" /></a>
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20		
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20		<a href="/cs/idcplg?IdcService=FLD_BROWSE&path=%2fACL%2fDFC&doMarkSubscribed=1"><img src="/cs/resources/layouts/Top Menus/Oracle/tree_icon_collection_closed.gif" alt="Folder" /></a>
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20		<a class="xuiLinkText2_sm_wrap" style="white-space:pre"href="/cs/idcplg?IdcService=FLD_BROWSE&path=%2fACL%2fDFC&doMarkSubscribed=1">DFC</a>
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	</div>
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	--- @ResultSet FolderListingScript ---
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	numFields=1,numRows=1,currentRow=0
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	row[0]=(
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	var menuItems_868065274 = [
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20		{ id: "menuitem_868065274_fldEditFolderInformation", text: "Update Folder Information", url: "javascript:idc.folders.showEditFolderPopup(\"1AA4D433E0FBA6636343A5AF17F70509\")"},
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20		{ id: "menuitem_868065274_fldNewShortcutGivenTarget", text: "Create Shortcut", url: "javascript:idc.folders.showCreateShortcutGivenTargetPopup(\"1AA4D433E0FBA6636343A5AF17F70509\",\"DFC\")"},
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20		{ id: "menuitem_868065274_fldRenameFolder", text: "Rename", url: "javascript:idc.folders.renameFolder(\"1AA4D433E0FBA6636343A5AF17F70509\")"},
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20		{ id: "menuitem_868065274_fldMoveFolder", text: "Move", url: "javascript:idc.folders.moveSingleItem(\"fFolderGUID:1AA4D433E0FBA6636343A5AF17F70509\")"},
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20		{ id: "menuitem_868065274_fldCopyFolder", text: "Copy", url: "javascript:idc.folders.copySingleItem(\"fFolderGUID:1AA4D433E0FBA6636343A5AF17F70509\")"},
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20		{ id: "menuitem_868065274_fldDeleteFolder", text: "Delete", url: "javascript:idc.folders.deleteSingleItem(\"fFolderGUID:1AA4D433E0FBA6636343A5AF17F70509\",\"fFolderType:owner\")"},
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20		{ id: "menuitem_868065274_fldAddToMyFolder", text: "Add To My Folders", url: "javascript:idc.folders.addToMyFolder(\"fFolderGUID:1AA4D433E0FBA6636343A5AF17F70509\",\"fFolderName:DFC\")"},
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20		{ id: "menuitem_868065274_fldSubscribeFolder", text: "Subscribe", url: "javascript:idc.folders.subscribeSingleItem(\"fFolderGUID:1AA4D433E0FBA6636343A5AF17F70509\",\"fApplication:framework\",\"fFolderType:owner\")"},
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	];
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20			var menuListenerArgs = {menuId: 'menu_868065274', imageId: 'menuImg_868065274', linkId: 'menuLink_868065274'};
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20			if (typeof(menuItems_868065274) != 'undefined')
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20			{
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20				menuListenerArgs.menuItems = menuItems_868065274;
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20			}
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	     YAHOO.util.Event.addListener('menuLink_868065274', 'click', idc.widget.util.createAndDisplayImagePopupMenu, menuListenerArgs);
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	--- @ResultSet TaskList ---
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	numFields=9,numRows=1,currentRow=0
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	taskType[0]=(edit)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	taskResolutionCode[1]=(0)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	taskWasSuccessful[2]=(1)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	taskMessage[3]=()
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fItemIdentifier[4]=(fFolderGUID:1AA4D433E0FBA6636343A5AF17F70509)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fFolderType[5]=(owner)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fFileType[6]=()
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fDisplayName[7]=(DFC)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	fPath[8]=(/ACL/DFC)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	--- @ResultSet UserAttribInfo ---
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	numFields=2,numRows=1,currentRow=0
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	dUserName[0]=(weblogic)
+ PushRIDC/6	02.23 17:14:12.908	IdcServer-20	AttributeInfo[1]=(account,#0023none,15,account,#0023all,15,role,guest,15,role,authenticated,15,role,admin,15,role,sysmanager,15,role,refineryadmin,15,role,rmaadmin,15,role,pcmadmin,15,role,ermadmin,15)
+>requestaudit/6	02.23 17:14:12.909	IdcServer-20	FLD_EDIT_FOLDER [dUser=weblogic][StatusCode=0] 0.06734299659729004(secs)
+>requestaudit/6	02.23 17:14:13.088	IdcServer-21	FLD_BROWSE [dUser=weblogic][StatusCode=0] 0.14998400211334229(secs)
+>requestaudit/6	02.23 17:14:13.342	IdcServer-32	GET_PERSONALIZED_JAVASCRIPT [dUser=weblogic] 0.018776999786496162(secs)
+>requestaudit/6	02.23 17:14:22.943	IdcServer-45	PING_SERVER [dUser=anonymous][StatusCode=-20][StatusMessage=Unable to establish connection to the server. To proceed, you must enter the correct login authentication credentials.][IsJava=1] 0.0046350001357495785(secs)

@@ -1,0 +1,138 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+<head>
+	<$defaultPageTitle="Replicate On the go "$>
+	<$include std_html_head_declarations$>
+
+<script type="text/javascript">
+var ListdID="";
+var ListdDocName="";
+</script>
+</head>
+
+<$include body_def$>
+
+<$include std_page_begin$>
+
+<$include std_header$>
+
+
+
+
+
+
+
+<$if ShowResult$>
+
+
+
+
+<input type=hidden name=idcToken value="<$idcToken$>"> 
+
+<td class="xuiPageHeadingText" align=center><strong>List of contents </strong></td> 
+
+
+
+<table class="xuiPageHeadingCell" width="100%" cellpadding="0" cellspacing="0" summary="" border="2"> 
+<tr> 
+<td class="xuiPageHeadingText" align=center width="30%" style="font-weight:bold;"><strong>ContentID</strong></td>
+<td class="xuiPageHeadingText" align=center width="30%" style="font-weight:bold;"><strong>dID</strong></td>
+<td class="xuiPageHeadingText" align=center width=auto  style="font-weight:bold;"><strong>Release Date</strong></td> 
+</tr> 
+
+
+<$loop ResultSetRIDC$> 
+
+<script type="text/javascript">
+  ListdID = ListdID + <$dID$> + ' ' ;
+  ListdDocName = ListdDocName + "<$dDocName$>"  + ' ';
+</script>
+
+<tr> 
+<td class="xuiPageHeadingText" align=center width="30%"><strong><$dDocName$><strong></td> 
+<td class="xuiPageHeadingText" align=center width="30%"><strong><$dID$><strong></td>
+<td class="xuiPageHeadingText" align=center width=auto><strong><$dDocCreatedDate$></strong></td> 
+</tr> 
+
+
+<$endloop$> 
+
+</table> 
+
+
+
+<br style="line-height:10px"> 
+<tr> 
+</tr>
+<tr> 
+</tr>
+<tr> 
+</tr>
+
+<table border=0 cellpadding=2 cellspacing=0 width=400>
+<form name="updateform"  action="<$HttpCgiPath$>" method="POST">
+
+<input type=hidden name=IdcService value="REPLICATE_ONTHEGO_CONTENT">
+<input type=hidden name=idcToken value="<$idcToken$>"> 
+<input type=hidden name=ListdID >
+<input type=hidden name=ListdDocName >
+<tr>
+	<td colspan=2>&nbsp;</td>
+</tr>
+	<tr>
+	<td align=center colspan=2>
+	<input type=submit name=Replicate value="Submit"   onclick="intialize()" />
+	<input type=reset name=reset value=" Reset "/>
+	</td>
+<script type="text/javascript">
+function intialize(){  
+
+ document.updateform.ListdID.value = ListdID;
+ document.updateform.ListdDocName.value = ListdDocName;
+ }  
+</script>
+
+
+</tr>
+</tr>
+</form>
+</table>
+
+
+
+<$else$>
+<table border=0 cellpadding=2 cellspacing=0 width=400>
+<caption align=top><h4 class=pageTitle>Input Query to Replicate  contents </h4></caption>
+<form action="<$HttpCgiPath$>" method="POST">
+<input type=hidden name=IdcService value="REPLICATE_ONTHEGO_CONTENT">
+<input type=hidden name=idcToken value="<$idcToken$>"> 
+
+
+<tr>
+	<td><span class=tableEntry>Query:</span></td>
+	<td><input type=text size=50 name="Rquery"></td>
+</tr>
+<tr>
+	<td colspan=2>&nbsp;</td>
+</tr>
+	<tr>
+	<td align=center colspan=2>
+	<input type=submit name=submit value=" Submit ">
+	<input type=reset name=reset value=" Reset ">
+	</td>
+</tr>
+</tr>
+</form>
+</table>
+
+
+
+<$endif$>
+
+
+
+<$include std_page_end$>
+
+</body>
+</html>
+
